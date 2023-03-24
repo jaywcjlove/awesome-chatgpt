@@ -23,3 +23,4 @@ Awesome ChatGPT
 - https://chatgpt.ddiu.io
 - https://chat.binjie.site:7777
 - https://chat.forchange.cn 🇨🇳 需要key
+- https://ask.askaiw.com 🪜 每天体验 3 次
