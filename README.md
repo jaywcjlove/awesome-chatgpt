@@ -1,6 +1,10 @@
 Awesome ChatGPT
 ===
 
+## 桌面应用
+
+- [Cursor](https://github.com/getcursor/cursor) An editor built for programming with AI
+
 ## 镜像网站
 
 - https://freegpt.one
