@@ -28,4 +28,5 @@ Awesome ChatGPT
 ## 竞品
 
 - 百度 文心一言 https://yiyan.baidu.com
+- 通义千问 https://tongyi.aliyun.com/
 - Google Bard http://bard.google.com
