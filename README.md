@@ -12,10 +12,19 @@ Awesome ChatGPT
 
 ## 镜像网站
 
-- https://freegpt.one 🪜
+:+1: Recommended
+
+:closed_lock_with_key: API key required
+
+- https://freegpt.one 🪜 :+1:
 - https://ai.moyunav.com 🇨🇳
 - https://chat.theb.ai 🪜 
+- https://chatbot.theb.ai 🪜 :+1:
+- https://fastgpt.app 🪜 
+- https://talk.xiu.ee 🪜 
+- https://94gpt.com 🪜 
 - https://chatforai.com 🪜
+- https://xc.com 🪜 
 - https://trychatgp.com 🪜
 - https://gpt.xeasy.me 🪜
 - https://chat.yqcloud.top 🪜
