@@ -20,8 +20,8 @@ Awesome ChatGPT
 - https://ai.moyunav.com 🇨🇳
 - https://chat.theb.ai 🪜 
 - https://chatbot.theb.ai 🪜 :+1:
-- https://fastgpt.app 🪜 
-- https://talk.xiu.ee 🪜 
+- https://fastgpt.app 🪜 :closed_lock_with_key:
+- https://talk.xiu.ee 🪜 :closed_lock_with_key:
 - https://94gpt.com 🪜 
 - https://chatforai.com 🪜
 - https://xc.com 🪜 
