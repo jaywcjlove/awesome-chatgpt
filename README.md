@@ -17,6 +17,7 @@ Awesome ChatGPT
 :closed_lock_with_key: API key required
 
 - https://freegpt.one 🪜 :+1:
+- http://8.216.50.196 :+1:
 - https://ai.moyunav.com 🇨🇳
 - https://chat.theb.ai 🪜 
 - https://chatbot.theb.ai 🪜 :+1:
