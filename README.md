@@ -12,9 +12,7 @@ Awesome ChatGPT
 
 ## 镜像网站
 
-:+1: Recommended
-
-:closed_lock_with_key: API key required
+:+1: Recommended  :closed_lock_with_key: API key required :octocat: Open Source
 
 - https://freegpt.one 🪜 :+1:
 - http://8.216.50.196 :+1:
