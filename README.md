@@ -18,7 +18,7 @@ Awesome ChatGPT
 
 - https://freegpt.one 🪜 :+1:
 - http://8.216.50.196 :+1:
-- https://ai.moyunav.com 🇨🇳
+- https://ai.moyunav.com 🇨🇳 [:octocat:](https://github.com/Chanzhaoyu/chatgpt-web)
 - https://chat.theb.ai 🪜 
 - https://chatbot.theb.ai 🪜 :+1:
 - https://fastgpt.app 🪜 :closed_lock_with_key:
@@ -26,14 +26,15 @@ Awesome ChatGPT
 - https://94gpt.com 🪜 
 - https://chatforai.com 🪜
 - https://xc.com 🪜 
-- https://trychatgp.com 🪜
+- https://chat.gptalk.net 🪜
 - https://gpt.xeasy.me 🪜
-- https://chat.yqcloud.top 🪜
+- https://chat.yqcloud.top 🪜 [:octocat:](https://github.com/binjie09/chatgpt-web)
 - https://ai.okmiku.com/chat 🪜
-- https://chatgpt.ddiu.io 🇨🇳
-- https://chat.binjie.site:7777
+- https://chatgpt.ddiu.io 🪜 [:octocat:](https://github.com/ddiu8081/chatgpt-demo)
+- https://chat.binjie.site:7777 [:octocat:](https://github.com/binjie09/chatgpt-web)
 - https://chat.forchange.cn 🇨🇳 需要key
 - https://ask.askaiw.com 🪜 每天体验 3 次
+- https://chatgpt-plus.app [:octocat:](https://github.com/zhpd/chatgpt-plus)
 
 ## 竞品
 
