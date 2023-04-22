@@ -14,6 +14,7 @@ Awesome ChatGPT
 
 :+1: Recommended  :closed_lock_with_key: API key required :octocat: Open Source
 
+- https://law-cn-ai.vercel.app 中国法律 AI 助手 🇨🇳 [:octocat:](https://github.com/lvwzhen/law-cn-ai)
 - https://freegpt.one 🪜 :+1:
 - http://8.216.50.196 :+1:
 - https://ai.moyunav.com 🇨🇳 [:octocat:](https://github.com/Chanzhaoyu/chatgpt-web)
