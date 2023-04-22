@@ -33,7 +33,7 @@ Awesome ChatGPT
 - https://chat.binjie.site:7777 [:octocat:](https://github.com/binjie09/chatgpt-web)
 - https://chat.forchange.cn 🇨🇳 :closed_lock_with_key: 需要key
 - https://ask.askaiw.com 🪜 :closed_lock_with_key: 每天体验 3 次
-- https://chatgpt-plus.app [:octocat:](https://github.com/zhpd/chatgpt-plus)
+- https://chatgpt-plus.app 🪜 [:octocat:](https://github.com/zhpd/chatgpt-plus)
 
 ## 竞品
 
