@@ -19,6 +19,7 @@ Awesome ChatGPT
 - http://8.216.50.196 :+1:
 - https://ai.moyunav.com 🇨🇳 [:octocat:](https://github.com/Chanzhaoyu/chatgpt-web)
 - https://chat.theb.ai 🪜 
+- https://www.promptboom.com 🇨🇳
 - https://chatbot.theb.ai 🪜 :+1:
 - https://fastgpt.app 🪜 :closed_lock_with_key:
 - https://talk.xiu.ee 🪜 :closed_lock_with_key:
