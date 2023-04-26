@@ -10,6 +10,10 @@ Awesome ChatGPT
 
 - [Cursor](https://github.com/getcursor/cursor) An editor built for programming with AI
 
+## 工具
+
+- [ChatGPT-i18n](https://chatgpt-i18n.vercel.app) Localize your websites with AI assistance. [:octocat:](https://github.com/ObservedObserver/chatgpt-i18n)
+
 ## 镜像网站
 
 :+1: Recommended  :closed_lock_with_key: API key required :octocat: Open Source
