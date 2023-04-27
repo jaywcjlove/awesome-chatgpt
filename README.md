@@ -13,6 +13,7 @@ Awesome ChatGPT
 ## 工具
 
 - [ChatGPT-i18n](https://chatgpt-i18n.vercel.app) Localize your websites with AI assistance. [:octocat:](https://github.com/ObservedObserver/chatgpt-i18n)
+- [智造喵下载](https://chat.plexpt.com)
 
 ## 镜像网站
 
