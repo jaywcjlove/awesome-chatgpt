@@ -17,9 +17,9 @@ Awesome ChatGPT
 - [Poe](https://poe.com) 多种 AI 的集合版本
 - [Onepoint](https://github.com/onepointAI/onepoint) 基于 Electron 的开源 AI 助手 [:octocat:](https://github.com/ObservedObserver/chatgpt-i18n)
 
-## 镜像网站
+## Web 应用
 
-:+1: Recommended  :closed_lock_with_key: API key required :octocat: Open Source
+:+1: 推荐  :closed_lock_with_key: 需要 API 密钥 :octocat: 开源
 
 - https://law-cn-ai.vercel.app 中国法律 AI 助手 🇨🇳 [:octocat:](https://github.com/lvwzhen/law-cn-ai)
 - https://freegpt.one 🪜 :+1: 
