@@ -44,6 +44,8 @@ Awesome ChatGPT
 - https://chat.forchange.cn 🇨🇳 :closed_lock_with_key: 需要key
 - https://ask.askaiw.com 🪜 :closed_lock_with_key: 每天体验 3 次
 - https://chatgpt-plus.app 🪜 [:octocat:](https://github.com/zhpd/chatgpt-plus)
+- https://anse.app [:octocat:](https://github.com/anse-app/anse)
+- https://chatgpt.nextweb.fun/#/chat :+1: [:octocat:](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
 ## 竞品
 
