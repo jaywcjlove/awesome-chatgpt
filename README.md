@@ -19,17 +19,17 @@ Awesome ChatGPT
 
 ## Web 应用
 
-:+1: 推荐  :closed_lock_with_key: 需要 API 密钥 :octocat: 开源
+👍 推荐  :closed_lock_with_key: 需要 API 密钥 :octocat: 开源
 
 - https://law-cn-ai.vercel.app 中国法律 AI 助手 🇨🇳 [:octocat:](https://github.com/lvwzhen/law-cn-ai)
-- https://freegpt.one 🪜 :+1: 
-- https://huggingface.co/chat :+1: [:octocat:](https://github.com/huggingface/chat-ui)
-- http://8.216.50.196 :+1:
+- https://freegpt.one 🪜 👍 
+- https://huggingface.co/chat 👍 [:octocat:](https://github.com/huggingface/chat-ui)
+- http://8.216.50.196 👍
 - https://ai.moyunav.com 🇨🇳 [:octocat:](https://github.com/Chanzhaoyu/chatgpt-web)
 - https://chat.theb.ai 🪜 
 - https://laicj.cn 🇨🇳
 - https://www.promptboom.com 🇨🇳
-- https://chatbot.theb.ai 🪜 :+1:
+- https://chatbot.theb.ai 🪜 👍
 - https://fastgpt.app 🪜 :closed_lock_with_key:
 - https://talk.xiu.ee 🪜 :closed_lock_with_key:
 - https://94gpt.com 🪜 
@@ -45,7 +45,7 @@ Awesome ChatGPT
 - https://ask.askaiw.com 🪜 :closed_lock_with_key: 每天体验 3 次
 - https://chatgpt-plus.app 🪜 [:octocat:](https://github.com/zhpd/chatgpt-plus)
 - https://anse.app [:octocat:](https://github.com/anse-app/anse)
-- https://chatgpt.nextweb.fun/#/chat :+1: [:octocat:](https://github.com/Yidadaa/ChatGPT-Next-Web)
+- https://chatgpt.nextweb.fun/#/chat 👍 [:octocat:](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
 ## 竞品
 
