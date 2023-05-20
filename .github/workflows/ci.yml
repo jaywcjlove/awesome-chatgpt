@@ -1,0 +1,32 @@
+name: deploy
+on:
+  repository_dispatch:
+    types: [run-deploy]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Create idoc.yml
+        run: |
+          cat > idoc.yml << EOF
+          site: Awesome ChatGPT
+          openSource: https://github.com/jaywcjlove/awesome-chatgpt
+          EOF
+          
+      - run: npm install idoc@1.25.3 -g
+      - run: idoc -s "Awesome ChatGPT {{version}}"
+
+      - name: Deploy Website
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
