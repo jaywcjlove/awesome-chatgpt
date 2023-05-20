@@ -1,7 +1,8 @@
-name: deploy
+name: Deploy Website
 on:
-  repository_dispatch:
-    types: [run-deploy]
+  push:
+    branches:
+      - master
 
 jobs:
   build:
