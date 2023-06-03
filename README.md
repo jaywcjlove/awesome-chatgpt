@@ -16,6 +16,15 @@ Awesome ChatGPT
 - [智造喵下载](https://chat.plexpt.com)
 - [Poe](https://poe.com) 多种 AI 的集合版本
 - [Onepoint](https://github.com/onepointAI/onepoint) 基于 Electron 的开源 AI 助手 [:octocat:](https://github.com/ObservedObserver/chatgpt-i18n)
+- [OpenAI旗下最新的GPT-4模型](https://openai.com/gpt-4)
+- [AI图像和插画生成工具](https://www.midjourney.com/)
+- [AI写作，文章自成](https://xiezuocat.com/?s=aigj)
+- [AI文字内容创作工具](https://www.jasper.ai/)
+- [StabilityAI推出的文本到图像生成AI](https://stability.ai/)
+- [AI艺术和创意辅助平台](https://yige.baidu.com/)
+- [人工智能营销文案和内容创作工具](https://www.copy.ai/)
+- [AI写作，文案，释义工具](https://writesonic.com/)
+- [微软必应推出的基于DALL·E的AI图像生成工具](https://cn.bing.com/create)
 
 ## Web 应用
 
