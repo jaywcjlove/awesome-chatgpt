@@ -29,7 +29,7 @@ Awesome ChatGPT
 
 ## Web 应用
 
-👍 推荐  :closed_lock_with_key: 需要 API 密钥 :octocat: 开源
+👍 推荐  🔐 需要 API 密钥 :octocat: 开源
 
 - https://law-cn-ai.vercel.app 中国法律 AI 助手 🇨🇳 [:octocat:](https://github.com/lvwzhen/law-cn-ai)
 - https://freegpt.one 🪜 👍 
@@ -40,8 +40,8 @@ Awesome ChatGPT
 - https://laicj.cn 🇨🇳
 - https://www.promptboom.com 🇨🇳
 - https://chatbot.theb.ai 🪜 👍
-- https://fastgpt.app 🪜 :closed_lock_with_key:
-- https://talk.xiu.ee 🪜 :closed_lock_with_key:
+- https://fastgpt.app 🪜 🔐
+- https://talk.xiu.ee 🪜 🔐
 - https://94gpt.com 🪜 
 - https://chatforai.com 🪜
 - https://xc.com 🪜 
@@ -51,8 +51,8 @@ Awesome ChatGPT
 - https://ai.okmiku.com/chat 🪜
 - https://chatgpt.ddiu.io 🪜 [:octocat:](https://github.com/ddiu8081/chatgpt-demo)
 - https://chat.binjie.site:7777 [:octocat:](https://github.com/binjie09/chatgpt-web)
-- https://chat.forchange.cn 🇨🇳 :closed_lock_with_key: 需要key
-- https://ask.askaiw.com 🪜 :closed_lock_with_key: 每天体验 3 次
+- https://chat.forchange.cn 🇨🇳 🔐 需要key
+- https://ask.askaiw.com 🪜 🔐 每天体验 3 次
 - https://chatgpt-plus.app 🪜 [:octocat:](https://github.com/zhpd/chatgpt-plus)
 - https://anse.app [:octocat:](https://github.com/anse-app/anse)
 - https://chatgpt.nextweb.fun/#/chat 👍 [:octocat:](https://github.com/Yidadaa/ChatGPT-Next-Web)
