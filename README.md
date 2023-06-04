@@ -61,4 +61,9 @@ Awesome ChatGPT
 
 - 百度 文心一言 https://yiyan.baidu.com
 - 通义千问 https://tongyi.aliyun.com
-- Google Bard http://bard.google.com
+- Google Bard https://bard.google.com
+- Claude https://www.anthropic.com 
+- Moss https://moss.fastnlp.top 复旦大学团队
+- ColossalChat https://chat.colossalai.org 免费[开源](https://github.com/hpcaitech/ColossalAI)
+- 讯飞星火认知大模型 https://xinghuo.xfyun.cn
+- HuggingChat https://huggingface.co/chat/
