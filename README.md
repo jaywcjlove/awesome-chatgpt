@@ -5,6 +5,7 @@ Awesome ChatGPT
 
 - https://chat.openai.com **ChatGTP 官网**
 - https://www.aiyjs.com 国内外 AI 工具资讯站
+- https://ai-bot.cn 工具集
 
 ## 桌面应用
 
