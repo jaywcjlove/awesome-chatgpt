@@ -31,6 +31,7 @@ Awesome ChatGPT
 
 👍 推荐  🔐 需要 API 密钥 :octocat: 开源
 
+- https://chat.aiyax.com/zh 🇨🇳
 - https://law-cn-ai.vercel.app 中国法律 AI 助手 🇨🇳 [:octocat:](https://github.com/lvwzhen/law-cn-ai)
 - https://freegpt.one 🪜 👍 
 - https://huggingface.co/chat 👍 [:octocat:](https://github.com/huggingface/chat-ui)
