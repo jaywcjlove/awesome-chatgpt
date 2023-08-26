@@ -33,6 +33,7 @@ Awesome ChatGPT
 
 - https://chat.aiyax.com/zh 🇨🇳
 - https://law-cn-ai.vercel.app 中国法律 AI 助手 🇨🇳 [:octocat:](https://github.com/lvwzhen/law-cn-ai)
+- https://chatgpt2233.xeasy.me 🔐 🇨🇳
 - https://freegpt.one 🪜 👍 
 - https://huggingface.co/chat 👍 [:octocat:](https://github.com/huggingface/chat-ui)
 - http://8.216.50.196 👍
