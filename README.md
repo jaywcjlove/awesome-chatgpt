@@ -32,13 +32,14 @@ Awesome ChatGPT
 👍 推荐  🔐 需要 API 密钥 :octocat: 开源
 
 - https://chat.aiyax.com/zh 🇨🇳
+- https://o.aibusx.com 🇨🇳
 - https://law-cn-ai.vercel.app 中国法律 AI 助手 🇨🇳 [:octocat:](https://github.com/lvwzhen/law-cn-ai)
 - https://chatgpt2233.xeasy.me 🔐 🇨🇳
 - https://freegpt.one 🪜 👍 
 - https://huggingface.co/chat 👍 [:octocat:](https://github.com/huggingface/chat-ui)
 - http://8.216.50.196 👍
 - https://ai.moyunav.com 🇨🇳 [:octocat:](https://github.com/Chanzhaoyu/chatgpt-web)
-- https://chat.theb.ai 🪜 
+- https://chat.theb.ai 🪜
 - https://laicj.cn 🇨🇳
 - https://www.promptboom.com 🇨🇳
 - https://chatbot.theb.ai 🪜 👍
