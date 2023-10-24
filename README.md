@@ -31,6 +31,8 @@ Awesome ChatGPT
 
 👍 推荐  🔐 需要 API 密钥 :octocat: 开源
 
+- https://ora.ai 👍 🪜
+- https://poe.com 👍 🪜
 - https://chat.aiyax.com/zh 🇨🇳
 - https://o.aibusx.com 🇨🇳
 - https://law-cn-ai.vercel.app 中国法律 AI 助手 🇨🇳 [:octocat:](https://github.com/lvwzhen/law-cn-ai)
