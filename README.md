@@ -74,3 +74,4 @@ Awesome ChatGPT
 - ColossalChat https://chat.colossalai.org 免费[开源](https://github.com/hpcaitech/ColossalAI)
 - 讯飞星火认知大模型 https://xinghuo.xfyun.cn
 - HuggingChat https://huggingface.co/chat/
+- PopAI https://www.popai.pro
