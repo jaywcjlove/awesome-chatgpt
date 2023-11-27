@@ -18,6 +18,9 @@ jobs:
         run: |
           cat > idoc.yml << EOF
           site: Awesome ChatGPT
+          menus:
+            Home: index.html
+            Sponsor: https://jaywcjlove.github.io/#/sponsor
           openSource: https://github.com/jaywcjlove/awesome-chatgpt
           EOF
           

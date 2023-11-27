@@ -1,6 +1,8 @@
 Awesome ChatGPT
 ===
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor)
+
 ## 资讯网站
 
 - https://chat.openai.com **ChatGTP 官网**
