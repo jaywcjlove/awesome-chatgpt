@@ -67,6 +67,10 @@ Awesome ChatGPT
 - https://anse.app [:octocat:](https://github.com/anse-app/anse)
 - https://chatgpt.nextweb.fun/#/chat 👍 [:octocat:](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
+## 绘图
+
+- DreamStudio https://dreamstudio.ai
+
 ## 竞品
 
 - 百度 文心一言 https://yiyan.baidu.com
