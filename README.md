@@ -84,3 +84,4 @@ Awesome ChatGPT
 - 讯飞星火认知大模型 https://xinghuo.xfyun.cn
 - HuggingChat https://huggingface.co/chat/
 - PopAI https://www.popai.pro
+- Devv https://devv.ai
