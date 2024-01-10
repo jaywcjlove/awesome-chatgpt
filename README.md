@@ -63,7 +63,7 @@ Awesome ChatGPT
 - https://chat.yqcloud.top 🪜 [:octocat:](https://github.com/binjie09/chatgpt-web)
 - https://ai.okmiku.com/chat 🪜
 - https://chatgpt.ddiu.io 🪜 [:octocat:](https://github.com/ddiu8081/chatgpt-demo)
-- https://chat.binjie.site:7777 [:octocat:](https://github.com/binjie09/chatgpt-web)
+- https://c2.binjie.fun [:octocat:](https://github.com/binjie09/chatgpt-web)
 - https://chat.forchange.cn 🇨🇳 🔐 需要key
 - https://ask.askaiw.com 🪜 🔐 每天体验 3 次
 - https://chatgpt-plus.app 🪜 [:octocat:](https://github.com/zhpd/chatgpt-plus)
