@@ -38,6 +38,7 @@ Awesome ChatGPT
 - https://ora.ai 👍 🪜
 - https://start-chat.chatgot.io 👍 🪜
 - https://poe.com 👍 🪜
+- https://chatgptnexus.github.io/chatgptnexus 🪜
 - https://www.geminiprochat.com 👍 [:octocat:](https://github.com/babaohuang/GeminiProChat)
 - https://gptscopilot.ai 👍
 - https://chat.aiyax.com/zh 🇨🇳
