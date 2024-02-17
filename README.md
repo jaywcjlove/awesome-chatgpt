@@ -84,7 +84,8 @@ Awesome ChatGPT
 
 - 百度 文心一言 https://yiyan.baidu.com
 - 通义千问 https://tongyi.aliyun.com
-- Google Bard https://bard.google.com
+- 豆包 https://www.doubao.com
+- Google Gemini https://gemini.google.com
 - Claude https://www.anthropic.com 
 - Moss https://moss.fastnlp.top 复旦大学团队
 - ColossalChat https://chat.colossalai.org 免费[开源](https://github.com/hpcaitech/ColossalAI)
