@@ -73,6 +73,10 @@ Awesome ChatGPT
 - https://anse.app [:octocat:](https://github.com/anse-app/anse)
 - https://chatgpt.nextweb.fun/#/chat 👍 [:octocat:](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
+## 集合
+
+- https://app.anakin.ai
+
 ## Gemini
 
 - https://chat.googlegemini.co
