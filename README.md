@@ -76,6 +76,7 @@ Awesome ChatGPT
 ## 集合
 
 - https://app.anakin.ai
+- https://www.perplexity.ai
 
 ## Gemini
 
