@@ -87,6 +87,11 @@ Awesome ChatGPT
 - DreamStudio https://dreamstudio.ai
 - https://www.iconikai.com
 
+## 免费 GPT-3.5-Turbo API 服务
+
+- https://github.com/missuo/FreeGPT35
+- https://github.com/aurora-develop/aurora
+
 ## 竞品
 
 - 百度 文心一言 https://yiyan.baidu.com
