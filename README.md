@@ -91,6 +91,7 @@ Awesome ChatGPT
 
 - https://github.com/missuo/FreeGPT35
 - https://github.com/aurora-develop/aurora
+- https://github.com/Dalufishe/freegptjs
 
 ## 竞品
 
