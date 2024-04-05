@@ -56,7 +56,6 @@ Awesome ChatGPT
 - https://www.promptboom.com 🇨🇳
 - https://chatbot.theb.ai 🪜 👍
 - https://chat.chatgptdemo.net 🇨🇳
-- https://fastgpt.app 🪜 🔐
 - https://talk.xiu.ee 🪜 🔐
 - https://94gpt.com 🪜 
 - https://chatforai.com 🪜
