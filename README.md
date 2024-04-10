@@ -92,6 +92,7 @@ Awesome ChatGPT
 - https://github.com/aurora-develop/aurora
 - https://github.com/Dalufishe/freegptjs
 - https://github.com/PawanOsman/ChatGPT
+- https://github.com/nashsu/FreeAskInternet
 
 ## 竞品
 
