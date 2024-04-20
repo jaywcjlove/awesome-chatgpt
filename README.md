@@ -93,6 +93,7 @@ Awesome ChatGPT
 - https://github.com/Dalufishe/freegptjs
 - https://github.com/PawanOsman/ChatGPT
 - https://github.com/nashsu/FreeAskInternet
+- https://github.com/aurorax-neo/free-gpt3.5-2api
 
 ## 竞品
 
