@@ -35,6 +35,7 @@ Awesome ChatGPT
 
 👍 推荐  🔐 需要 API 密钥 :octocat: 开源
 
+- https://chat.chatdata.online
 - https://gnomic.cn 👍 🇨🇳
 - https://ora.ai 👍 🪜
 - https://start-chat.chatgot.io 👍 🪜
