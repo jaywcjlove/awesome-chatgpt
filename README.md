@@ -78,10 +78,6 @@ Awesome ChatGPT
 - https://app.anakin.ai
 - https://www.perplexity.ai
 
-## Gemini
-
-- https://chat.googlegemini.co
-
 ## 绘图
 
 - DreamStudio https://dreamstudio.ai
@@ -102,6 +98,7 @@ Awesome ChatGPT
 - 通义千问 https://tongyi.aliyun.com
 - 豆包 https://www.doubao.com
 - Google Gemini https://gemini.google.com
+- Meta AI https://www.meta.ai
 - Claude https://www.anthropic.com 
 - Moss https://moss.fastnlp.top 复旦大学团队
 - ColossalChat https://chat.colossalai.org 免费[开源](https://github.com/hpcaitech/ColossalAI)
