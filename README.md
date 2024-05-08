@@ -91,6 +91,7 @@ Awesome ChatGPT
 - https://github.com/PawanOsman/ChatGPT
 - https://github.com/nashsu/FreeAskInternet
 - https://github.com/aurorax-neo/free-gpt3.5-2api
+- https://github.com/aurora-develop/Duck2api
 
 ## 竞品
 
