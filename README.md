@@ -35,6 +35,8 @@ Awesome ChatGPT
 
 👍 推荐  🔐 需要 API 密钥 :octocat: 开源
 
+- https://share.wendaalpha.net
+- http://nmwaicg.top
 - https://chat.chatdata.online
 - https://gnomic.cn 👍 🇨🇳
 - https://ora.ai 👍 🪜
@@ -92,6 +94,11 @@ Awesome ChatGPT
 - https://github.com/nashsu/FreeAskInternet
 - https://github.com/aurorax-neo/free-gpt3.5-2api
 - https://github.com/aurora-develop/Duck2api
+
+## GTP 服务
+
+- https://github.com/MartialBE/one-api
+- https://github.com/songquanpeng/one-api
 
 ## 竞品
 
