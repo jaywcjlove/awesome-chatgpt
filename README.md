@@ -35,12 +35,15 @@ Awesome ChatGPT
 
 👍 推荐  🔐 需要 API 密钥 :octocat: 开源
 
+- https://www.typingmind.com
 - https://share.wendaalpha.net
 - http://nmwaicg.top
 - https://chat.chatdata.online
+- https://chatkit.app
+- https://www.humata.ai
 - https://gnomic.cn 👍 🇨🇳
 - https://ora.ai 👍 🪜
-- https://start-chat.chatgot.io 👍 🪜
+- https://start.chatgot.io 👍 🪜
 - https://poe.com 👍 🪜
 - https://chatup.moca.one 🪜 **Gemini**
 - https://chatgptnexus.github.io/chatgptnexus 🪜
