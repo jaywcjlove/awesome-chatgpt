@@ -37,6 +37,7 @@ Awesome ChatGPT
 
 - https://www.typingmind.com
 - https://share.wendaalpha.net
+- https://you.com
 - http://nmwaicg.top
 - https://chat.chatdata.online
 - https://chatkit.app
