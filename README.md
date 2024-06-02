@@ -47,7 +47,7 @@ Awesome ChatGPT
 - https://start.chatgot.io 👍 🪜
 - https://poe.com 👍 🪜
 - https://chatup.moca.one 🪜 **Gemini**
-- https://chatgptnexus.github.io/chatgptnexus 🪜
+- https://www.chatgptnexus.uk 🪜
 - https://www.geminiprochat.com 👍 [:octocat:](https://github.com/babaohuang/GeminiProChat)
 - https://gptscopilot.ai 👍
 - https://chat.aiyax.com/zh 🇨🇳
