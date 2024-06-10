@@ -35,6 +35,7 @@ Awesome ChatGPT
 
 👍 推荐  🔐 需要 API 密钥 :octocat: 开源
 
+- https://www.coze.com
 - https://www.typingmind.com
 - https://share.wendaalpha.net
 - https://you.com
