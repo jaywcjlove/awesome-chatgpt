@@ -112,7 +112,7 @@ Awesome ChatGPT
 - 豆包 https://www.doubao.com
 - Google Gemini https://gemini.google.com
 - Meta AI https://www.meta.ai
-- Claude https://www.anthropic.com 
+- Claude https://claude.ai  
 - Moss https://moss.fastnlp.top 复旦大学团队
 - ColossalChat https://chat.colossalai.org 免费[开源](https://github.com/hpcaitech/ColossalAI)
 - 讯飞星火认知大模型 https://xinghuo.xfyun.cn
