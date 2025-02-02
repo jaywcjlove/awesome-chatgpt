@@ -107,6 +107,7 @@ Awesome ChatGPT
 
 ## 竞品
 
+- 深度求索 https://www.deepseek.com/
 - 百度 文心一言 https://yiyan.baidu.com
 - 通义千问 https://tongyi.aliyun.com
 - 豆包 https://www.doubao.com
