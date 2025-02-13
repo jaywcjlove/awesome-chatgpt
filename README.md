@@ -79,6 +79,7 @@ Awesome ChatGPT
 - https://chatgpt-plus.app 🪜 [:octocat:](https://github.com/zhpd/chatgpt-plus)
 - https://anse.app [:octocat:](https://github.com/anse-app/anse)
 - https://chatgpt.nextweb.fun/#/chat 👍 [:octocat:](https://github.com/Yidadaa/ChatGPT-Next-Web)
+- https://chatkit.app 🔐
 
 ## 集合
 
