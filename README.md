@@ -112,6 +112,7 @@ Awesome ChatGPT
 - 百度 文心一言 https://yiyan.baidu.com
 - 通义千问 https://tongyi.aliyun.com
 - 豆包 https://www.doubao.com
+- Grok https://grok.com
 - Google Gemini https://gemini.google.com
 - Meta AI https://www.meta.ai
 - Claude https://claude.ai  
