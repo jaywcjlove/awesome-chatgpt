@@ -115,7 +115,8 @@ Awesome ChatGPT
 - Grok https://grok.com
 - Google Gemini https://gemini.google.com
 - Meta AI https://www.meta.ai
-- Claude https://claude.ai  
+- Claude https://claude.ai
+- Raycast AI Lite https://www.raycast.ai
 - Moss https://moss.fastnlp.top 复旦大学团队
 - ColossalChat https://chat.colossalai.org 免费[开源](https://github.com/hpcaitech/ColossalAI)
 - 讯飞星火认知大模型 https://xinghuo.xfyun.cn
