@@ -11,7 +11,13 @@ Awesome ChatGPT
 
 ## 桌面应用
 
-- [Cursor](https://github.com/getcursor/cursor) An editor built for programming with AI
+- [Cursor](https://github.com/getcursor/cursor) - An editor built for programming with AI
+- [ChatGPT](https://openai.com/chatgpt/download/) - A conversational AI system that listens, learns, and challenges
+- [Cherry Studio](https://www.cherry-ai.com/) - A desktop client that supports multiple large language model (LLM) providers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
+- [Chatbox](https://chatboxai.app) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
+- [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
+- [Witsy](https://jan.ai/) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
+
 
 ## 工具
 
@@ -85,6 +91,7 @@ Awesome ChatGPT
 
 - https://app.anakin.ai
 - https://www.perplexity.ai
+- https://chat.chatbotapp.ai
 
 ## 绘图
 
