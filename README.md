@@ -13,10 +13,10 @@ Awesome ChatGPT
 
 - [Cursor](https://github.com/getcursor/cursor) - An editor built for programming with AI
 - [ChatGPT](https://openai.com/chatgpt/download/) - A conversational AI system that listens, learns, and challenges
-- [Cherry Studio](https://www.cherry-ai.com/) - A desktop client that supports multiple large language model (LLM) providers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
-- [Chatbox](https://chatboxai.app) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
-- [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
-- [Witsy](https://jan.ai/) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
+- [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - A desktop client that supports multiple large language model (LLM) providers. 
+- [Chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...).
+- [Jan](https://github.com/menloresearch/jan) - An open-source alternative to ChatGPT that runs entirely offline on your computer.
+- [Witsy](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client.
 
 
 ## 工具
