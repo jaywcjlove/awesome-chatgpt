@@ -131,3 +131,4 @@ Awesome ChatGPT
 - PopAI https://www.popai.pro
 - Devv https://devv.ai
 - DeepSeek https://www.deepseek.com
+- Qwen https://chat.qwen.ai
