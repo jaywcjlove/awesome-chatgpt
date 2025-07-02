@@ -89,6 +89,7 @@ Awesome ChatGPT
 
 ## 集合
 
+- https://duckduckgo.com
 - https://app.anakin.ai
 - https://www.perplexity.ai
 - https://chat.chatbotapp.ai
