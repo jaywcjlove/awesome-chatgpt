@@ -60,6 +60,7 @@ Awesome ChatGPT
 - https://www.perplexity.ai
 - https://chat.chatbotapp.ai
 - https://free.stockai.trade
+- https://sparka.ai
 
 ## 工具
 
