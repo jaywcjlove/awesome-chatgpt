@@ -174,3 +174,4 @@ Awesome ChatGPT
 - PopAI https://www.popai.pro
 - Devv https://devv.ai
 - Qwen https://chat.qwen.ai
+- Kimi AI https://www.kimi.com
