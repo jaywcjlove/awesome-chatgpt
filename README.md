@@ -70,6 +70,7 @@ Awesome ChatGPT
 
 ## 工具
 
+- [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) Base 主网研究 API。发现免费（x402）；外部 USDC 付款可购买短研究报告（$2）或 OpenAI 兼容对话（$0.001）。
 - [ChatGPT-i18n](https://chatgpt-i18n.vercel.app) Localize your websites with AI assistance. [:octocat:](https://github.com/ObservedObserver/chatgpt-i18n)
 - [智造喵下载](https://chat.plexpt.com)
 - [Poe](https://poe.com) 多种 AI 的集合版本
